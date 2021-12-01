@@ -1,13 +1,3 @@
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
-redirect_from:
-  - /resume
----
-
-{% include base_path %}
-
 ---
 title: "La Informalidad Laboral: La gran problemática y sus posibles soluciones"
 collection: publications
