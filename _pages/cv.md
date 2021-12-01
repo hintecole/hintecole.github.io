@@ -30,4 +30,4 @@ Skills
 * Intermediate level in Python
 * Intermediate level in Excel 
 
-More info 
+More info here
