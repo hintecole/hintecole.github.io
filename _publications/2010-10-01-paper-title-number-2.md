@@ -8,7 +8,7 @@ venue: 'Revista Económica'
 paperurl: 'https://economica.pe/informalidad-laboral-peru/'
 citation: 'Linares Camus, Elizabeth N. (2018). &quot;La Informalidad Laboral: La gran problemática y sus posibles soluciones.&quot; <i>Revista Económica</i>. 1(1).'
 ---
-This paper is about the number 1.
+A general vision of informal urban labor in Peru. 
 
 [Read article here](https://economica.pe/informalidad-laboral-peru/)
 
