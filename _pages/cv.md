@@ -30,4 +30,5 @@ Skills
 * Intermediate level in Python
 * Intermediate level in Excel 
 
-More info here
+More info [here](https://github.com/hintecole/hintecole.github.io/raw/master/CV_OFICIAL_NICOLE.pdf)
+
