@@ -16,13 +16,17 @@ Education
 
 Work experience
 ======
+* Second Semester 2021-1: Research Assistant 
+  *  Pontifical Catholic University of Peru
+  *  Duties: Review literature of International Business and create databases. 
+
 * First Semester 2021-1: Subdirector of Revista Económica
   * Pontifical Catholic University of Peru
-  * Duties included: The supervision of areas at Revista Económica
+  * Duties: The supervision of areas at Revista Económica
 
 * Second Semester 2020-2: Director of the Web Area at Revista Económica
   * Pontifical Catholic University of Peru
-  * Duties included: Write and supervise articles.
+  * Duties: Write and supervise articles.
   
 Skills
 ======
