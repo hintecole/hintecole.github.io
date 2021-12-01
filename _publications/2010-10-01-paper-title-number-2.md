@@ -2,7 +2,7 @@
 title: "La informalidad Laboral: la gran problemática y sus posibles soluciones"
 collection: publications
 permalink: /publication/2018-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 1'
+excerpt: 'A general vision of informal urban labor in Peru. '
 date: 2018-10-01
 venue: 'Revista Económica'
 paperurl: 'https://economica.pe/informalidad-laboral-peru/'
