@@ -29,6 +29,8 @@ Skills
 * Advanced level in Stata
 * Intermediate level in Python
 * Intermediate level in Excel 
+* Intermediate level in Matlab
 
 More info [here](https://github.com/hintecole/hintecole.github.io/raw/master/CV_OFICIAL_NICOLE.pdf)
+
 
