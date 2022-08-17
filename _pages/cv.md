@@ -11,14 +11,17 @@ redirect_from:
 
 Education
 ======
-* Undergraduate student at Pontifical Catholic University of Peru
+* Bachiller Degree in Economics at Pontifical Catholic University of Peru
 * Undergraduate student at Universidad de los Andes - Program Exchange
 
 Work experience
 ======
-* Second Semester 2021-1: Research Assistant 
+* First Semester 2022-1: Research Assistant 
   *  Pontifical Catholic University of Peru
-  *  Duties: Review literature of International Business and create databases. 
+  *  Duties: Review literature of Behavioral Economics and Program Experiments in Otree. 
+
+Volunteer Work
+======
 
 * First Semester 2021-1: Subdirector of Revista Económica
   * Pontifical Catholic University of Peru
@@ -31,11 +34,12 @@ Work experience
 Skills
 ======
 * Advanced level in Stata
-* Intermediate level in Python
+* Advanced level in Python
 * Intermediate level in Excel 
 * Intermediate level in Matlab
 
 
-More info [here](https://github.com/hintecole/hintecole.github.io/raw/master/CV_OFICIAL_NICOLE.pdf)
+More info [here](https://github.com/hintecole/hintecole.github.io/blob/master/CV_Nicole_Linares.pdf)
+
 
 
