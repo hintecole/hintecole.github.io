@@ -39,7 +39,7 @@ Skills
 * Intermediate level in Matlab
 
 
-More info [here](https://github.com/hintecole/hintecole.github.io/blob/master/CV_Nicole_Linares.pdf)
+More info [here](https://github.com/hintecole/hintecole.github.io/raw/master/CV_Nicole_Linares.pdf)
 
 
 
